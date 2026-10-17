@@ -1,2 +1,17 @@
-# homebrew-tap
-Homebrew Tap for mcp-sentinel and other CLI tools by joutvhu
+# joutvhu Homebrew Tap
+
+Official Homebrew Tap for tools and utilities created by [@joutvhu](https://github.com/joutvhu).
+
+## Usage
+
+Add this tap to your Homebrew installation:
+
+```bash
+brew tap joutvhu/tap
+```
+
+Install tools:
+
+```bash
+brew install mcp-sentinel
+```
